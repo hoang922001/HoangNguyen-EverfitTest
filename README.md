@@ -31,7 +31,7 @@ yarn install
 
 ## Environment Variable
 
-Create .env file with the variables like .env.example
+Create a .env file containing the same variables as .env.example.
 
 ## Running Document using Compodoc
 
